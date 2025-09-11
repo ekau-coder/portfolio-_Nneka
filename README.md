@@ -438,11 +438,11 @@
                     <p>I am available for new projects and opportunities. Feel free to reach out to me via email or LinkedIn.</p>
                     <div class="contact-item">
                         <i class="fas fa-envelope"></i>
-                        <span><a href="mailto:your.email@example.com">your.email@example.com</a></span>
+                        <span><a href="mailto:winifred.udoye@gmail.com">your.email@example.com</a></span>
                     </div>
                     <div class="contact-item">
                         <i class="fab fa-linkedin"></i>
-                        <span><a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></span>
+                        <span><a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/salesforcewinnie/)" target="_blank">LinkedIn Profile</a></span>
                     </div>
                 </div>
                 <form class="contact-form">
@@ -465,7 +465,7 @@
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Ijeoma Udoye. All rights reserved.</p>
+        <p>&copy; 2025 Nneka Udoye. All rights reserved.</p>
     </footer>
 </body>
 </html>
